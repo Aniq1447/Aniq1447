@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 💫 About Me<br><br>Hi, I'm **Aneeque** 👋<br><br>I'm a **DevOps Engineer** with **2+ years of experience** specializing in building scalable, secure, and resilient cloud infrastructure. I bridge the gap between development and operations by automating CI/CD pipelines, managing containerized applications, and optimizing infrastructure as code.<br><br> - ☁️ **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, EKS)<br>- 🛠️ **Infrastructure as Code:** Terraform<br>- 🐳 **Containerization & Orchestration:** Docker, Kubernetes<br>- 🔄 **CI/CD:** Jenkins, GitHub Actions<br>- 🐧 **OS & Scripting:** Linux, Bash,<br>- 🎯 **Goal:** Building self-healing, zero-downtime deployment pipelines.
 
 
