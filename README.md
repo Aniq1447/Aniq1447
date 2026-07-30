@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 💫 Hey there, I'm Aneeque! 👋
+  # 💫 I'm Aneeque! 👋
 
   ### **DevOps Engineer | Cloud Infrastructure & Automation Specialist**
 
