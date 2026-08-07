@@ -1,82 +1,50 @@
-<div align="center">
+<h1>Hi there, I'm <a href="https://linkedin.com/in/MohammadAneequddinQuazi">Aneeque</a>👋</h1>
 
-  # 💫 I'm Aneeque! 👋
+I'm a DevOps Engineer with 2+ years of hands-on experience in designing, building, and maintaining scalable, secure, and resilient cloud infrastructure. Driven by a passion for automation, I bridge the gap between development and operations by automating CI/CD pipelines, orchestrating containerized applications, and optimizing Infrastructure as Code (IaC).
 
-  ### **DevOps Engineer | Cloud Infrastructure & Automation Specialist**
+I love discussing cloud architecture, CI/CD, or anything that helps streamline software delivery. If you’re building something cool or want to collaborate, let's connect!
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MohammadAneequddinQuazi)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quazi1447@gmail.com)
-  [![Visitor Count](https://komarev.com/ghpvc/?username=Aniq1447&color=blueviolet&style=for-the-badge)](https://github.com/Aniq1447)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=DevOps+and+Cloud+Specialist;Building+Zero-Downtime+Pipelines)](https://git.io/typing-svg)
 
-</div>
+ * Resume: [<b>View Aneeque's LinkedIn Profile</b>](https://linkedin.com/in/MohammadAneequddinQuazi)   
+ * Email: [<b>quazi1447@gmail.com</b>](mailto:quazi1447@gmail.com)
+ * Find me on [LinkedIn](https://linkedin.com/in/MohammadAneequddinQuazi) and feel free to connect!
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ 
+#### 🌱 What I'm Passionate About
 
-## 🚀 About Me
+* **Infrastructure as Code & Automation:** Streamlining cloud deployments using Terraform and Ansible to ensure reproducible environments.
+* **Resilient Systems:** Building self-healing, high-availability, and zero-downtime deployment pipelines.
+* **Community & Collaboration:** Sharing best practices for CI/CD, Kubernetes orchestration, and cloud security.
 
-I am a passionate **DevOps Engineer** with **2+ years of hands-on experience** specializing in designing, building, and maintaining scalable, secure, and resilient cloud infrastructure. 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-I bridge the gap between development and operations by automating CI/CD pipelines, orchestrating containerized applications, and optimizing Infrastructure as Code (IaC).
+#### 🎖 Key Highlights & Achievements
 
-* ☁️ **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, EKS)
-* 🛠️ **Infrastructure as Code:** Terraform
-* 🐳 **Containerization & Orchestration:** Docker, Kubernetes
-* 🔄 **CI/CD:** Jenkins, GitHub Actions
-* 🐧 **OS & Scripting:** Linux, Bash
-* 🎯 **Primary Goal:** Building self-healing, zero-downtime deployment pipelines
+* Architected and maintained **AWS Cloud Infrastructure** utilizing core services like EC2, S3, VPC, IAM, and EKS.
+* Implemented **End-to-End CI/CD Pipelines** using Jenkins and GitHub Actions to reduce deployment times and increase stability.
+* Dockerized legacy services and managed production container fleets using **Kubernetes**.
+* Monitored systems proactively with **Prometheus & Grafana**, ensuring optimal site reliability and quick bug mitigation.
+* Enforced code quality and infrastructure security across builds using tools like **SonarQube**.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+<!-- Personal Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Aniq1447&theme=prussian&hide_border=false&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=Aniq1447&theme=prussian&hide_border=false"
+    height="165"
+  />
 </p>
 
----
+<!-- Readme Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniq1447&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniq1447&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <a href="https://github.com/Aniq1447">
-    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Aniq1447&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aniq1447 GitHub Stats" />
-  </a>
-  <a href="https://github.com/Aniq1447">
-    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aniq1447&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/Aniq1447">
-    <img src="https://streak-stats.demolab.com/?user=Aniq1447&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-
-</div>
-
----
-
-### 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aniq1447&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</div>
+<!-- Profile Visitors Count -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Aniq1447&label=Profile%20views&color=0e75b6&style=flat" alt="Aniq1447" /></p>
