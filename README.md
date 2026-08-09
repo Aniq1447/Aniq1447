@@ -112,7 +112,7 @@ I am a results-driven **DevOps Engineer** with **2+ years of hands-on experience
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniq1447&theme=dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniq1447&bg_color=000000&color=ffffff&line=00f2fe&point=00ff88&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
