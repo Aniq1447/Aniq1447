@@ -88,12 +88,12 @@ I am a results-driven **DevOps Engineer** with **2+ years of hands-on experience
 
   <table border="0">
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <img src="https://github-readme-stats.shion.dev/api?username=Aniq1447&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
       </td>
-      <td width="50%" align="center" valign="middle">
-        <h3>Most Used Technologies</h3>
-        <p>
+      <td width="50%" align="center" valign="top">
+        <h3 align="center">Most Used Technologies</h3>
+        <p align="center">
           <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud" /><br /><br />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br /><br />
           <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /><br /><br />
