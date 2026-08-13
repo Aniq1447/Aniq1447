@@ -88,19 +88,11 @@ I am a results-driven **DevOps Engineer** with **2+ years of hands-on experience
 
   <table border="0">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="50%">
         <img src="https://github-readme-stats.shion.dev/api?username=Aniq1447&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
       </td>
-      <td width="50%" align="center" valign="top">
-        <h3 align="center">Most Used Technologies</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud" /><br /><br />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br /><br />
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /><br /><br />
-          <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /><br /><br />
-          <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /><br /><br />
-          <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="GitOps" />
-        </p>
+      <td width="50%">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aniq1447&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
