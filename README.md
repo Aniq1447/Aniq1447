@@ -36,7 +36,7 @@
 
 ## 🚀 About Me
 
-I am a results-driven **DevOps Engineer** with **2+ years of hands-on experience** specializing in architecting, automating, and securing scalable cloud environments. My focus centers on bridging software development and operations to accelerate delivery speed without compromising resilience or security.
+I am a results-driven **DevOps Engineer** with **3+ years of hands-on experience** specializing in architecting, automating, and securing scalable cloud environments. My focus centers on bridging software development and operations to accelerate delivery speed without compromising resilience or security.
 
 * ☁️ **Cloud Infrastructure:** Designing high-availability architecture on AWS (EC2, S3, EKS, VPC, IAM).
 * 🛠️ **IaC & Automation:** Declarative provisioning with Terraform to enforce immutable infrastructure.
